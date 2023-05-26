@@ -12,3 +12,5 @@ Para alcançar os objetivos, foi realizada uma análise exploratória dos dados 
 
 Com o modelo de Churn, podemos prever clientes com maior chance de cancelar o serviço e tomar medidas para evitar sua saída. No entanto, é importante lembrar que as ações a serem tomadas podem variar dependendo da área de negócio e da política adotada pela empresa.
 
+A documentação do projeto se encontra [aqui](https://medium.com/@omarca2015c/predição-de-churn-em-empresas-provedoras-de-serviços-de-internet-7489e6df3033).
+
